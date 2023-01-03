@@ -1,4 +1,4 @@
-let number = 1
+let number = 2
 
 function add(a, b) {
     console.log("We're going to add a and b!")
