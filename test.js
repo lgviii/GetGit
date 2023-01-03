@@ -1,5 +1,3 @@
-let number = 1
-
 function add(a, b) {
     console.log("We're going to add a and b!")
     return a + b
